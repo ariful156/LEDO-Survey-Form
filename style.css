@@ -1,0 +1,22 @@
+.wrapper{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-form {
+    padding: 20px;
+    background: #21273cf7;
+    border-radius: 5px;
+}
+label{
+    color: white;
+}
+
+body{
+    background: url(img/bg.jpg) no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color:#3b5967c7;
+    max-width: 100%;
+}
